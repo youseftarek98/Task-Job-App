@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "145023640311",
+    "project_id": "testjob-84ad2",
+    "storage_bucket": "testjob-84ad2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:145023640311:android:8c1592538fc382427129f2",
+        "android_client_info": {
+          "package_name": "com.task_job_app.task_job_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "145023640311-t52ssiqpl16f0v28097llpptpq2rq1kg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.task_job_app.task_job_app",
+            "certificate_hash": "98dd269eb43f19d7cc171afe6d6971b07fbe313c"
+          }
+        },
+        {
+          "client_id": "145023640311-cl9pkua5gg54b459ufiu730dhdkgv9hk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBN1tVI1B5BaZTPaRP58ESfDz6GhEVyQCQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "145023640311-cl9pkua5gg54b459ufiu730dhdkgv9hk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
